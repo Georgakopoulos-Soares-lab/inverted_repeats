@@ -1,2 +1,1 @@
-# inverted_repeats
-Inverted Repeats paper
+# Inverted Repeats Analysis
