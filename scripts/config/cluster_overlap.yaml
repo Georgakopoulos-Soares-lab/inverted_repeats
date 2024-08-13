@@ -1,0 +1,11 @@
+# cluster.yaml
+#
+__default__:
+        time: "100:00:00"
+        mem: "50GB"
+        ncpus: 1
+        nodes: 1
+        account: "izg5139_sc"
+        partition: "sla-prio"
+        jobName: "BacteriaArchaeaViralMR"
+

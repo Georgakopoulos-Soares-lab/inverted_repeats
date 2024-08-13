@@ -1,0 +1,9 @@
+numpy
+python-dotenv
+biopython
+pyarrow
+pandas
+termcolor
+argparse
+pathlib
+fastparquet

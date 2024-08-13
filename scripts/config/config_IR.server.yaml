@@ -1,0 +1,9 @@
+buckets: 7
+mode: 'IR'
+out: 'irp_out_primates'
+# files: 'filtered_assemblies_2024_3_22.txt'
+# files: 'filtered_assemblies_eukaryotes.txt'
+files: 'primate_assemblies.txt'
+minrep: 8
+max_spacer_length: 8
+min_arm_length: 10

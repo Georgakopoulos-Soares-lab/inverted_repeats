@@ -1,0 +1,1 @@
+/home/nicol/accessions/GCF_000002515.2_ASM251v1_genomic.fna.gz
