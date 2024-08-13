@@ -45,7 +45,7 @@ inverted_repeats/scripts/repeat_out
 
 The analysis was conducted on four stages:
 
-- Basic EDA analysis, including densities across domains, kingdoms and phylums.
+- Taxonomic analysis densities across domains, kingdoms and phylums.
 - Most prevalent inverted repeat arms amongst the four domains, using wordclouds, venn diagrams and upset plots.
 - Biophysical Properties of IR sequences. The GC content and dinucleotide composition of all IR arms was examined and compared to the base ratio. Another analysis included the arm length and spacer length of IRs with varying arm length. 
 - Compartment analysis. A snakemake workflow pipeline was built in order to extract the coverage of IRs with genomic subcompartments of interest, such as 
